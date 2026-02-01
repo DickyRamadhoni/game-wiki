@@ -1,0 +1,62 @@
+# Flutter platform folders (Android-only project)
+/ios/
+/web/
+/windows/
+/macos/
+/linux/
+
+# =========================
+# Miscellaneous / OS
+# =========================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.metadata
+
+# =========================
+# Flutter Web
+# =========================
+web/.last_build_id
+
+# =========================
+# Android
+# =========================
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# =========================
+# Firebase (SENSITIVE)
+# =========================
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# =========================
+# Obfuscation / Symbols
+# =========================
+app.*.symbols
+app.*.map.json
