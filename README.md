@@ -48,9 +48,7 @@ Dirancang agar pemain tetap bisa menemukan barang meskipun lupa nama itemnya, cu
 
 ## 🎥 Demo Aplikasi
 
-> Klik link di bawah untuk melihat demo aplikasi:
-
-[▶️ Lihat Demo Aplikasi](readme%20assets/Demo%20Aplikasi%20Game%20Wiki.mp4)
+https://github.com/user-attachments/assets/00e6cdc4-4708-4cc9-99bd-55e193eeed6e
 
 
 ---
